@@ -1,0 +1,7 @@
+C:\Users\Dima\source\repos\Tetris_game\Tetris_game\bin\Debug\Tetris_game.exe.config
+C:\Users\Dima\source\repos\Tetris_game\Tetris_game\bin\Debug\Tetris_game.exe
+C:\Users\Dima\source\repos\Tetris_game\Tetris_game\bin\Debug\Tetris_game.pdb
+C:\Users\Dima\source\repos\Tetris_game\Tetris_game\obj\Debug\Tetris_game.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\Tetris_game\Tetris_game\obj\Debug\Tetris_game.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Tetris_game\Tetris_game\obj\Debug\Tetris_game.exe
+C:\Users\Dima\source\repos\Tetris_game\Tetris_game\obj\Debug\Tetris_game.pdb
